@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Templates.Class01.App", "SEDC.Templates.Class01.App\SEDC.Templates.Class01.App.csproj", "{0CDD24BA-815C-4556-B45B-1E911C54E0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Template.Class01.WebApp", "SEDC.Template.Class01.WebApp\SEDC.Template.Class01.WebApp.csproj", "{23E9933B-960D-424C-BC87-3138EB32BEB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDD24BA-815C-4556-B45B-1E911C54E0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDD24BA-815C-4556-B45B-1E911C54E0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDD24BA-815C-4556-B45B-1E911C54E0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDD24BA-815C-4556-B45B-1E911C54E0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E9933B-960D-424C-BC87-3138EB32BEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E9933B-960D-424C-BC87-3138EB32BEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E9933B-960D-424C-BC87-3138EB32BEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E9933B-960D-424C-BC87-3138EB32BEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE323E19-620A-42E9-BCC8-B537968EBF6C}
+	EndGlobalSection
+EndGlobal
